@@ -1,7 +1,7 @@
 
 <h1>AutoLinker</h1>
 
-<p>AutoLinker is a <strong>Telegram bot</strong> designed to automatically track new messages in channels, extract hashtags, and update an index message with hyperlinks to the new messages. It uses <strong>Pyrogram</strong> to interact with Telegram and <strong>SQLite</strong> as a local database. Airtable is used optionally as a dashboard to manage the mapping of channels, subjects, topics, and index messages.</p>
+<p>AutoLinker is a <strong>Telegram bot</strong> designed to automatically track new messages in channels, extract hashtags, and update an index message with hyperlinks to the new messages. It uses <strong>Pyrogram</strong> to interact with Telegram and <strong>SQLite</strong> as a local database. Airtable is used as a dashboard to manage the mapping of channels, subjects, topics, and index messages.</p>
 
 <h2>Features</h2>
 <ul>
