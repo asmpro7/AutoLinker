@@ -93,7 +93,7 @@ SESSION_NAME = "autolinker"
 <p><strong>Example row:</strong></p>
 <pre>
 | channel_id | subject     | topic  | message_id |
-|-----------|------------|--------|--------------|
+|------------|-------------|--------|------------|
 | 3027270206 | Nephrology | Lec1   | 413         |
 </pre>
 
